@@ -1,1 +1,3 @@
 Nesse projeto eu tive a oportunidade de aprender como usar alguns elementos do javascript diretamente no navegador e a usar a ferramenta "SpeechRecogition" que permite ao usuario responder a alguma pergunta usando o microfone do pc e ter uma interação bem legal. Como a intenção do joguinho é aprender a falar as cores em Ingles, eu adicionei mais algumas cores no dicionário e também adicionei um alert na função que capta a voz do usuário ecaso ele erre, o navegador mostra no alert a palavra que ele entendeu. 
+![tela2](https://user-images.githubusercontent.com/79859781/152048256-4b27b3e8-a226-4193-9dc9-c50ca762d29a.png)
+![tela1](https://user-images.githubusercontent.com/79859781/152048261-940d9b88-14c5-4582-afa2-7a2b6a6039f5.png)
